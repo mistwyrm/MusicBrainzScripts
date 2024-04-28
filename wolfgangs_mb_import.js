@@ -6,8 +6,8 @@
 // @author       lazybookwyrm
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @downloadURL  https://github.com/lazybookwyrm/MusicBrainzScripts/blob/main/wolfgangs_mb_import.js
-// @updateURL    https://github.com/lazybookwyrm/MusicBrainzScripts/blob/main/wolfgangs_mb_import.js
+// @downloadURL  https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.js
+// @updateURL    https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.js
 // @match        *://www.wolfgangs.com/music/*
 // @grant        none
 // ==/UserScript==
