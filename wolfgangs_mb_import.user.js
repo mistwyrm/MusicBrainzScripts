@@ -4,7 +4,7 @@
 // @version      2024-04-28
 // @description  Seeds MusicBrainz releases from Wolfgang's
 // @author       lazybookwyrm
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=musicbrainz.org
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @downloadURL  https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
 // @updateURL    https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
