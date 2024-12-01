@@ -5,8 +5,8 @@
 // @description  Quickly add archived image links to an artist's profile.
 // @author       lazybookwyrm
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=musicbrainz.org
-// @downloadURL  https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/mb_image_helper.js
-// @updateURL    https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/mb_image_helper.js
+// @downloadURL  https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/mb_image_helper.user.js
+// @updateURL    https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/mb_image_helper.user.js
 // @match        *://lioncat6.github.io/SAMBL/artist/*
 // @grant        none
 // ==/UserScript==
