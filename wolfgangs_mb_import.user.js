@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         MusicBrainz: Import releases from Wolfgang's
-// @namespace    https://github.com/lazybookwyrm/MusicBrainzScripts
-// @version      2024-04-28
+// @namespace    https://github.com/mistwyrm/MusicBrainzScripts
+// @version      2024-12-11
 // @description  Seeds MusicBrainz releases from Wolfgang's
-// @author       lazybookwyrm
+// @author       mistwyrm
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=musicbrainz.org
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @downloadURL  https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
-// @updateURL    https://raw.githubusercontent.com/lazybookwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
+// @downloadURL  https://raw.githubusercontent.com/mistwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
+// @updateURL    https://raw.githubusercontent.com/mistwyrm/MusicBrainzScripts/main/wolfgangs_mb_import.user.js
 // @match        *://www.wolfgangs.com/music/*
 // @grant        none
 // ==/UserScript==
@@ -63,7 +63,7 @@ function add_field (name, value) {
     }
 
     // Add default comment
-    editNote += "Imported using lazybookwyrm's Wolfgang's import script (https://github.com/lazybookwyrm/MusicBrainzScripts/blob/main/wolfgangs_mb_import.user.js). Please report any issues with the import script here: https://github.com/lazybookwyrm/MusicBrainzScripts/issues/new";
+    editNote += "Imported using mistwyrm's Wolfgang's import script (https://github.com/mistwyrm/MusicBrainzScripts/blob/main/wolfgangs_mb_import.user.js). Please report any issues with the import script here: https://github.com/mistwyrm/MusicBrainzScripts/issues/new";
     add_field("edit_note", editNote);
 
     // Add the release URL and URL type
