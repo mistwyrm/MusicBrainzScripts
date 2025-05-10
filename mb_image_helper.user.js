@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         MusicBrainz Image Helper
 // @namespace    https://github.com/mistwyrm/MusicBrainzScripts
-// @version      2024-12-11
+// @version      2025-05-10
 // @description  Quickly add archived image links to an artist's profile.
 // @author       mistwyrm
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=musicbrainz.org
 // @downloadURL  https://raw.githubusercontent.com/mistwyrm/MusicBrainzScripts/main/mb_image_helper.user.js
 // @updateURL    https://raw.githubusercontent.com/mistwyrm/MusicBrainzScripts/main/mb_image_helper.user.js
-// @match        *://lioncat6.github.io/SAMBL/artist/*
+// @match        *://sambl.lioncat6.com/artist*
 // @grant        none
 // ==/UserScript==
 
