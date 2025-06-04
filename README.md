@@ -8,9 +8,11 @@ Adds a button to seed MusicBrainz releases from [Wolfgang’s](https://www.wolfg
 [![Source](https://github.com/jerone/UserScripts/blob/master/_resources/Source-button.png)](https://github.com/mistwyrm/MusicBrainzScripts/blob/main/wolfgangs_mb_import.user.js)
 [![Install](https://raw.github.com/jerone/UserScripts/master/_resources/Install-button.png)](https://github.com/mistwyrm/MusicBrainzScripts/raw/main/wolfgangs_mb_import.user.js)
 
-## Artist Image Helper
+## ~~Artist Image Helper~~
 
-Prefills an archive.org picture url on MusicBrainz when the artist image on [SAMBL](https://lioncat6.github.io/SAMBL/) is clicked.
+### Note: [Lioncat6](https://github.com/Lioncat6) added this feature to SAMBL (inspired by this script), so this userscript is now redundant.
+
+Prefills an archive.org picture url on MusicBrainz when the artist image on [SAMBL](https://sambl.lioncat6.com/) is clicked.
 
 This should be used with the [Wayback Machine browser plugin](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) set to automatically archive web pages you visit. If you do not use the plugin, make sure you click the image link on MusicBrainz to make sure a snapshot of it exists.
 
